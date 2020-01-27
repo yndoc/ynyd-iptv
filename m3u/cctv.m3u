@@ -1,0 +1,69 @@
+#EXTM3U url-logos="http://192.168.2.116/love/m3u/logo/"
+#EXTINF:-1 tvg-logo="CCTV1HD.png"  tvg-name="CCTV1" group-title="中央蓝光台",CCTV-1蓝光
+http://223.110.242.130:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+#EXTINF:-1 tvg-logo="CCTV2HD.png"  tvg-name="CCTV2" group-title="中央蓝光台",CCTV-2蓝光
+http://223.110.242.130:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
+#EXTINF:-1 tvg-logo="CCTV3HD.png"  tvg-name="CCTV3" group-title="中央蓝光台",CCTV-3蓝光
+http://223.110.242.130:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
+#EXTINF:-1 tvg-logo="CCTV4HD.png"  tvg-name="CCTV4" group-title="中央蓝光台",CCTV-4蓝光
+http://223.110.242.130:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/
+#EXTINF:-1 tvg-logo="CCTV5HD.png"  tvg-name="CCTV5" group-title="中央蓝光台",CCTV-5蓝光
+http://223.110.242.130:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
+#EXTINF:-1 tvg-logo="CCTV5+HD.png"  tvg-name="CCTV5+" group-title="中央蓝光台",CCTV-5+蓝光
+http://223.110.242.130:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
+#EXTINF:-1 tvg-logo="CCTV6HD.png"  tvg-name="CCTV6" group-title="中央蓝光台",CCTV-6蓝光
+http://223.110.242.130:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
+#EXTINF:-1 tvg-logo="CCTV8HD.png"  tvg-name="CCTV8" group-title="中央蓝光台",CCTV-8蓝光
+http://223.110.242.130:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
+#EXTINF:-1 tvg-logo="CCTV1HD.png"  tvg-name="CCTV1" group-title="中央超清台",CCTV-1超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
+#EXTINF:-1 tvg-logo="CCTV2HD.png"  tvg-name="CCTV2" group-title="中央超清台",CCTV-2高清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/
+#EXTINF:-1 tvg-logo="CCTV3HD.png"  tvg-name="CCTV3" group-title="中央超清台",CCTV-3超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
+#EXTINF:-1 tvg-logo="CCTV4HD.png"  tvg-name="CCTV4" group-title="中央超清台",CCTV-4超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
+#EXTINF:-1 tvg-logo="CCTV5HD.png"  tvg-name="CCTV5" group-title="中央超清台",CCTV-5超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+#EXTINF:-1 tvg-logo="CCTV5+HD.png"  tvg-name="CCTV5+" group-title="中央超清台",CCTV-5+超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
+#EXTINF:-1 tvg-logo="CCTV6HD.png"  tvg-name="CCTV6" group-title="中央超清台",CCTV-6超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/
+#EXTINF:-1 tvg-logo="CCTV7HD.png"  tvg-name="CCTV7" group-title="中央超清台",CCTV-7超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
+#EXTINF:-1 tvg-logo="CCTV8HD.png"  tvg-name="CCTV8" group-title="中央超清台",CCTV-8超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
+#EXTINF:-1 tvg-logo="CCTV9HD.png"  tvg-name="CCTV9" group-title="中央超清台",CCTV-9超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
+#EXTINF:-1 tvg-logo="CCTV10HD.png"  tvg-name="CCTV10" group-title="中央超清台",CCTV-10超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
+#EXTINF:-1 tvg-logo="CCTV11HD.png"  tvg-name="CCTV11" group-title="中央超清台",CCTV-11超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
+#EXTINF:-1 tvg-logo="CCTV12HD.png"  tvg-name="CCTV12" group-title="中央超清台",CCTV-12超清
+http://223.110.242.130:6610/gitv/live1/CCTV-12/CCTV-12/
+#EXTINF:-1 tvg-logo="CCTV13HD.png"  tvg-name="CCTV13" group-title="中央超清台",CCTV-13超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
+#EXTINF:-1 tvg-logo="CCTV14HD.png"  tvg-name="CCTV14" group-title="中央超清台",CCTV-14超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
+#EXTINF:-1 tvg-logo="CCTV15HD.png"  tvg-name="CCTV15" group-title="中央超清台",CCTV-15超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
+#EXTINF:-1 tvg-logo="CCTVNHD.png"  tvg-name="CGTN" group-title="中央超清台",CCTV-NEWS
+http://223.110.242.130:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690621284_114.png"  tvg-name="CCTV1" group-title="中央标清台",CCTV-1
+http://223.110.242.130:6610/gitv/live1/G_CCTV-1/G_CCTV-1/
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690628754_865.png"  tvg-name="CCTV2" group-title="中央标清台",CCTV-2
+http://223.110.242.130:6610/gitv/live1/G_CCTV-2/G_CCTV-2/
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690636178_381.png"  tvg-name="CCTV3" group-title="中央标清台",CCTV-3
+http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HD/G_CCTV-3-HD/
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690667705_448.png"  tvg-name="CCTV5" group-title="中央标清台",CCTV-5
+http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HD/G_CCTV-5-HD/
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690790198_722.png"  tvg-name="CCTV8" group-title="中央标清台",CCTV-8
+http://223.110.242.130:6610/gitv/live1/G_CCTV-8/G_CCTV-8/
+#EXTINF:-1 tvg-logo="CETV1.png"  tvg-name="" group-title="中央标清台",CETV-1
+http://223.110.242.130:6610/gitv/live1/G_CETV-1/G_CETV-1/
+#EXTINF:-1 tvg-logo="CETV2.png"  tvg-name="" group-title="中央标清台",CETV-2
+http://223.110.242.130:6610/gitv/live1/G_CETV-2/G_CETV-2/
+#EXTINF:-1 tvg-logo="CETV3.png"  tvg-name="" group-title="中央标清台",CETV-3
+http://223.110.242.130:6610/gitv/live1/G_CETV-3/G_CETV-3/
+#EXTINF:-1 tvg-logo="CETV4.png"  tvg-name="" group-title="中央标清台",CETV-4
+http://223.110.242.130:6610/gitv/live1/G_CETV-4/G_CETV-4/
