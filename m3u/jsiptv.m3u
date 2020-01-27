@@ -1,0 +1,203 @@
+﻿#EXTM3U url-logos="http://192.168.2.116:86/love/m3u/logo/"
+#EXTINF:-1 tvg-logo="CCTV1HD.png"  tvg-name="CCTV1" group-title="中央蓝光台",CCTV-1蓝光
+http://223.110.242.130:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+#EXTINF:-1 tvg-logo="CCTV2HD.png"  tvg-name="CCTV2" group-title="中央蓝光台",CCTV-2蓝光
+http://223.110.242.130:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
+#EXTINF:-1 tvg-logo="CCTV3HD.png"  tvg-name="CCTV3" group-title="中央蓝光台",CCTV-3蓝光
+http://223.110.242.130:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
+#EXTINF:-1 tvg-logo="CCTV4HD.png"  tvg-name="CCTV4" group-title="中央蓝光台",CCTV-4蓝光
+http://223.110.242.130:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/
+#EXTINF:-1 tvg-logo="CCTV5HD.png"  tvg-name="CCTV5" group-title="中央蓝光台",CCTV-5蓝光
+http://223.110.242.130:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
+#EXTINF:-1 tvg-logo="CCTV5+HD.png"  tvg-name="CCTV5+" group-title="中央蓝光台",CCTV-5+蓝光
+http://223.110.242.130:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
+#EXTINF:-1 tvg-logo="CCTV6HD.png"  tvg-name="CCTV6" group-title="中央蓝光台",CCTV-6蓝光
+http://223.110.242.130:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
+#EXTINF:-1 tvg-logo="CCTV8HD.png"  tvg-name="CCTV8" group-title="中央蓝光台",CCTV-8蓝光
+http://223.110.242.130:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
+#EXTINF:-1 tvg-logo="CCTV1HD.png"  tvg-name="CCTV1" group-title="中央超清台",CCTV-1超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
+#EXTINF:-1 tvg-logo="CCTV2HD.png"  tvg-name="CCTV2" group-title="中央超清台",CCTV-2高清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/
+#EXTINF:-1 tvg-logo="CCTV3HD.png"  tvg-name="CCTV3" group-title="中央超清台",CCTV-3超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
+#EXTINF:-1 tvg-logo="CCTV4HD.png"  tvg-name="CCTV4" group-title="中央超清台",CCTV-4超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
+#EXTINF:-1 tvg-logo="CCTV5HD.png"  tvg-name="CCTV5" group-title="中央超清台",CCTV-5超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+#EXTINF:-1 tvg-logo="CCTV5+HD.png"  tvg-name="CCTV5+" group-title="中央超清台",CCTV-5+超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
+#EXTINF:-1 tvg-logo="CCTV6HD.png"  tvg-name="CCTV6" group-title="中央超清台",CCTV-6超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/
+#EXTINF:-1 tvg-logo="CCTV7HD.png"  tvg-name="CCTV7" group-title="中央超清台",CCTV-7超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
+#EXTINF:-1 tvg-logo="CCTV8HD.png"  tvg-name="CCTV8" group-title="中央超清台",CCTV-8超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
+#EXTINF:-1 tvg-logo="CCTV9HD.png"  tvg-name="CCTV9" group-title="中央超清台",CCTV-9超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
+#EXTINF:-1 tvg-logo="CCTV10HD.png"  tvg-name="CCTV10" group-title="中央超清台",CCTV-10超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
+#EXTINF:-1 tvg-logo="CCTV11HD.png"  tvg-name="CCTV11" group-title="中央超清台",CCTV-11超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
+#EXTINF:-1 tvg-logo="CCTV12HD.png"  tvg-name="CCTV12" group-title="中央超清台",CCTV-12超清
+http://223.110.242.130:6610/gitv/live1/CCTV-12/CCTV-12/
+#EXTINF:-1 tvg-logo="CCTV13HD.png"  tvg-name="CCTV13" group-title="中央超清台",CCTV-13超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
+#EXTINF:-1 tvg-logo="CCTV14HD.png"  tvg-name="CCTV14" group-title="中央超清台",CCTV-14超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
+#EXTINF:-1 tvg-logo="CCTV15HD.png"  tvg-name="CCTV15" group-title="中央超清台",CCTV-15超清
+http://223.110.242.130:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
+#EXTINF:-1 tvg-logo="CCTVNHD.png"  tvg-name="CGTN" group-title="中央超清台",CCTV-NEWS
+http://223.110.242.130:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690621284_114.png"  tvg-name="CCTV1" group-title="中央标清台",CCTV-1
+http://223.110.242.130:6610/gitv/live1/G_CCTV-1/G_CCTV-1/
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690628754_865.png"  tvg-name="CCTV2" group-title="中央标清台",CCTV-2
+http://223.110.242.130:6610/gitv/live1/G_CCTV-2/G_CCTV-2/
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690636178_381.png"  tvg-name="CCTV3" group-title="中央标清台",CCTV-3
+http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HD/G_CCTV-3-HD/
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690667705_448.png"  tvg-name="CCTV5" group-title="中央标清台",CCTV-5
+http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HD/G_CCTV-5-HD/
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690790198_722.png"  tvg-name="CCTV8" group-title="中央标清台",CCTV-8
+http://223.110.242.130:6610/gitv/live1/G_CCTV-8/G_CCTV-8/
+#EXTINF:-1 tvg-logo="CETV1.png"  tvg-name="" group-title="中央标清台",CETV-1
+http://223.110.242.130:6610/gitv/live1/G_CETV-1/G_CETV-1/
+#EXTINF:-1 tvg-logo="CETV2.png"  tvg-name="" group-title="中央标清台",CETV-2
+http://223.110.242.130:6610/gitv/live1/G_CETV-2/G_CETV-2/
+#EXTINF:-1 tvg-logo="CETV4.png"  tvg-name="" group-title="中央标清台",CETV-4
+http://223.110.242.130:6610/gitv/live1/G_CETV-4/G_CETV-4/
+#EXTINF:-1 tvg-logo="CETV3.png"  tvg-name="" group-title="中央标清台",CETV-3
+http://223.110.242.130:6610/gitv/live1/G_CETV-3/G_CETV-3/
+#EXTINF:-1 tvg-logo="湖南HD.png"  tvg-name="湖南卫视" group-title="高清卫视",湖南卫视超清-8M
+http://223.110.242.130:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/
+#EXTINF:-1 tvg-logo="江苏HD.png"  tvg-name="江苏卫视" group-title="高清卫视",江苏卫视超清
+http://223.110.242.130:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
+#EXTINF:-1 tvg-logo="北京HD.png"  tvg-name="北京卫" group-title="高清卫视",北京卫视超清-8M
+http://223.110.242.130:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
+#EXTINF:-1 tvg-logo="浙江HD.png"  tvg-name="浙江卫视" group-title="高清卫视",浙江卫视超清
+http://223.110.242.130:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/
+#EXTINF:-1 tvg-logo="山东HD.png"  tvg-name="山东卫视" group-title="高清卫视",山东卫视超清
+http://223.110.242.130:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/
+#EXTINF:-1 tvg-logo="东方HD.png"  tvg-name="东方卫视" group-title="高清卫视",东方卫视超清-8M
+http://223.110.242.130:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
+#EXTINF:-1 tvg-logo="安徽HD.png"  tvg-name="安徽卫视" group-title="地方卫视",安徽卫视
+http://223.110.242.130:6610/gitv/live1/AHWS/AHWS/
+#EXTINF:-1 tvg-logo="http://www.haoqu.net/d/file/2014/0116/20140116014711584.jpg"  tvg-name="辽宁卫视" group-title="地方卫视",辽宁卫视
+http://223.110.242.130:6610/gitv/live1/LNWS/LNWS/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564eb79891a97.png"  tvg-name="山东卫视" group-title="地方卫视",山东卫视
+http://223.110.242.130:6610/gitv/live1/SDWS/SDWS/
+#EXTINF:-1 tvg-logo="http://www.gxtv.cn/static/images/gxntv_logo_white.png"  tvg-name="广西卫视" group-title="地方卫视",广西卫视
+http://223.110.242.130:6610/gitv/live1/GXWS/GXWS/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",旅游卫视
+http://223.110.242.130:6610/gitv/live1/LYWS/LYWS/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201603/15/56e760cf70d42.png"  tvg-name="重庆卫视" group-title="地方卫视",重庆卫视
+http://223.110.242.130:6610/gitv/live1/G_CHONGQING/G_CHONGQING/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebb7c2f272.png"  tvg-name="四川卫视" group-title="地方卫视",四川卫视
+http://223.110.242.130:6610/gitv/live1/SCWS/SCWS/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd72d9f07.png"  tvg-name="河南卫视" group-title="地方卫视",河南卫视
+http://223.110.242.130:6610/gitv/live1/HENAN/HENAN/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc33d5781.png"  tvg-name="东南卫视" group-title="地方卫视",东南卫视
+http://223.110.242.130:6610/gitv/live1/DNWS/DNWS/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d494a38e.png"  tvg-name="天津卫视" group-title="地方卫视",天津卫视
+http://223.110.242.130:6610/gitv/live1/TJWS/TJWS/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc704917e.png"  tvg-name="江西卫视" group-title="地方卫视",江西卫视
+http://223.110.242.130:6610/gitv/live1/JXWS/JXWS/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201706/26/59506de1abb41.png"  tvg-name="湖北卫视" group-title="地方卫视",湖北卫视
+http://223.110.242.130:6610/gitv/live1/G_HUBEI/G_HUBEI/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png"  tvg-name="吉林卫视" group-title="地方卫视",吉林卫视
+http://223.110.242.130:6610/gitv/live1/G_JILIN/G_JILIN/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201706/26/59506dfaea3eb.png"  tvg-name="山西卫视" group-title="地方卫视",山西卫视
+http://223.110.242.130:6610/gitv/live1/SXWS/SXWS/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebbb11c454.png"  tvg-name="贵州卫视" group-title="地方卫视",贵州卫视
+http://223.110.242.130:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567bbf299dfa0.png"  tvg-name="青海卫视" group-title="地方卫视",青海卫视
+http://223.110.242.130:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1bf89530.png"  tvg-name="内蒙古卫视" group-title="地方卫视",内蒙古卫视
+http://223.110.242.130:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcd1c31ab.png"  tvg-name="云南卫视" group-title="地方卫视",云南卫视
+http://223.110.242.130:6610/gitv/live1/G_YUNNAN/G_YUNNAN/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcfa5599f.png"  tvg-name="河北卫视" group-title="地方卫视",河北卫视
+http://223.110.242.130:6610/gitv/live1/G_HEBEI/G_HEBEI/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec12b73df5.png"  tvg-name="宁夏卫视" group-title="地方卫视",宁夏卫视
+http://223.110.242.130:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1876f510.png"  tvg-name="新疆卫视" group-title="地方卫视",新疆卫视
+http://223.110.242.130:6610/gitv/live1/G_XINJIANG/G_XINJIANG/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd979fbf3.png"  tvg-name="甘肃卫视" group-title="地方卫视",甘肃卫视
+http://223.110.242.130:6610/gitv/live1/G_GANSU/G_GANSU/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec156d06de.png"  tvg-name="西藏卫视" group-title="地方卫视",西藏卫视
+http://223.110.242.130:6610/gitv/live1/G_XIZANG/G_XIZANG/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9b68c9178.png"  tvg-name="" group-title="地方卫视",优漫卡通
+http://223.110.242.130:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png"  tvg-name="浙江卫视" group-title="地方卫视",浙江卫视
+http://223.110.242.130:6610/gitv/live1/G_ZHEJIANG/G_ZHEJIANG/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png"  tvg-name="江苏卫视" group-title="地方卫视",江苏卫视
+http://223.110.242.130:6610/gitv/live1/JSWS-HD/JSWS-HD/
+#EXTINF:-1 tvg-logo="http://s0.xiaomitv.cc/pic/hunanweishi.jpg"  tvg-name="湖南卫视" group-title="地方卫视",湖南卫视
+http://223.110.242.130:6610/gitv/live1/G_HUNAN/G_HUNAN/
+#EXTINF:-1 tvg-logo="http://s0.xiaomitv.cc/pic/dongfangweishi.jpg"  tvg-name="东方卫视" group-title="地方卫视",东方卫视
+http://223.110.242.130:6610/gitv/live1/G_DONGFANG/G_DONGFANG/
+#EXTINF:-1 tvg-logo="http://beijingzhibo.com/templets/beijing/images/btv_1.jpg"  tvg-name="北京卫视" group-title="地方卫视",北京卫视
+http://223.110.242.130:6610/gitv/live1/G_BEIJING/G_BEIJING/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201803/09/5aa24fc3c8a95.png"  tvg-name="广东卫视" group-title="地方卫视",广东卫视
+http://223.110.242.130:6610/gitv/live1/G_GUANGDONG/G_GUANGDONG/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564e80f4757c8.png"  tvg-name="深圳卫视" group-title="地方卫视",深圳卫视
+http://223.110.242.130:6610/gitv/live1/G_SHENZHEN/G_SHENZHEN/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png"  tvg-name="黑龙江卫视" group-title="地方卫视",黑龙江卫视
+http://223.110.242.130:6610/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",兵团卫视
+http://223.110.242.130:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png"  tvg-name="陕西卫视" group-title="地方卫视",陕西卫视
+http://223.110.242.130:6610/gitv/live1/G_SHANXI/G_SHANXI/
+#EXTINF:-1 tvg-logo="南方HD.png"  tvg-name="南方卫视" group-title="地方卫视",南方卫视（广东）
+http://223.110.242.130:6610/gitv/live1/G_NANFANG/G_NANFANG/
+#EXTINF:-1 tvg-logo="厦门HD.png"  tvg-name="厦门卫视" group-title="地方卫视",厦门卫视
+http://223.110.242.130:6610/gitv/live1/G_XIAMEN/G_XIAMEN/
+#EXTINF:-1 tvg-logo=""  tvg-name="延边卫视" group-title="地方卫视",延边卫视
+http://223.110.242.130:6610/gitv/live1/G_YANBIAN/G_YANBIAN/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",嘉佳卡通
+http://223.110.242.130:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",山东教育电视台
+http://223.110.242.130:6610/gitv/live1/G_SDETV/G_SDETV/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",安多卫视
+http://223.110.242.130:6610/gitv/live1/G_ANDUO/G_ANDUO/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",考试在线
+http://223.110.242.130:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",农林卫视
+http://223.110.242.130:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",置业频道
+http://223.110.242.130:6610/gitv/live1/G_ZHIYE/G_ZHIYE/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png"  tvg-name="康巴卫视" group-title="地方卫视",康巴卫视
+http://223.110.242.130:6610/gitv/live1/G_KANGBA/G_KANGBA/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",京视剧场
+http://223.110.242.130:6610/gitv/live1/G_JINGJU/G_JINGJU/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",新娱乐
+http://223.110.242.130:6610/gitv/live1/G_XINYULE/G_XINYULE/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",家庭理财
+http://223.110.242.130:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",发现之旅
+http://223.110.242.130:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",弈坛春秋
+http://223.110.242.130:6610/gitv/live1/G_YITANCQ/G_YITANCQ/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",老故事
+http://223.110.242.130:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",女性时尚
+http://223.110.242.130:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",现代女性
+http://223.110.242.130:6610/gitv/live1/G_XIANDAINX/G_XIANDAINX/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",高尔夫
+http://223.110.242.130:6610/gitv/live1/G_GAOERFU/G_GAOERFU/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",职业指南
+http://223.110.242.130:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",证券资讯
+http://223.110.242.130:6610/gitv/live1/G_ZHENGJUANZX/G_ZHENGJUANZX/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",中国交通频道
+http://223.110.242.130:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",国学频道
+http://223.110.242.130:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
+#EXTINF:-1 tvg-logo=""  tvg-name="" group-title="地方卫视",篮球
+http://223.110.242.130:6610/gitv/live1/G_LANQIU/G_LANQIU/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png"  tvg-name="" group-title="地方卫视",卡酷少儿
+http://223.110.242.130:6610/gitv/live1/G_KAKU/G_KAKU/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9757cdb6f.png"  tvg-name="金鹰卡通" group-title="地方卫视",金鹰卡通
+http://223.110.242.130:6610/gitv/live1/G_JINYING/G_JINYING/
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201804/23/5add7c96b4c8c.png"  tvg-name="" group-title="地方卫视",炫动卡通
+http://223.110.242.130:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
